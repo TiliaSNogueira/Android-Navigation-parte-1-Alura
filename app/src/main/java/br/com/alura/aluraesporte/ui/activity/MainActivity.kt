@@ -6,7 +6,7 @@ import br.com.alura.aluraesporte.R
 
 
 
-class ProdutosActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
